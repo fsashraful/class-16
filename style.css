@@ -1,0 +1,73 @@
+/* header section start  */
+html{
+    scroll-behavior: smooth;
+}
+header{
+    background-color: #101446;
+    padding: 10px;
+}
+
+.logo a img{
+    width: 100px;
+    height: auto;
+}
+
+.menu ul{
+    list-style: none;
+    text-align: right;
+    margin-bottom: 0;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a {
+	text-decoration: none;
+	display: block;
+	color: white;
+	font-size: 20px;
+	padding: 0 20px;
+	line-height: 50px;
+}
+
+/* header section end  */
+
+/* Banner secton start  */
+.banner {
+	background: url(https://i.ibb.co/GQH7F9C/intro-bg.jpg)  no-repeat center ;
+	color: white;
+	padding: 250px 0;
+	background-size: cover;
+}
+
+
+/* Banner section end  */
+
+/* Team Section start  */
+.team{
+    background: #bac1f3;
+    padding: 40px 0;
+}
+
+/* Team Section End */
+
+/* About Section start  */
+.about{
+    background: #c2d4ea;
+    padding: 70px 0;
+}
+/* About Section End */
+
+/* Contact Section start  */
+.contact-us{
+    background: #f5f5f5;
+    padding: 40px;
+}
+/* Contact Section End */
+
+footer {
+    background: #0062d3;
+    color: white;
+    padding: 10px 0;
+    font-weight: bold;
+}
+
